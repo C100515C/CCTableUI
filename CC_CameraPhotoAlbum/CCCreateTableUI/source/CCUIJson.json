@@ -1,0 +1,228 @@
+{
+	"tableGroupArr":[
+		{
+			"groupFooterTitle":"",
+			"groupFooterHeight":0,
+
+			"groupHeaderHeight":30,
+			"groupHeaderTitle":"请填写个人信息（必填）",
+
+			"groupRows":[
+				{
+					"type":0,
+					"height":50.0,
+					"title":"姓名",
+					"placeholder":"请输入名字",
+                    "content":"",
+					"keboardType":0,
+					"ccKey":"name"
+				},
+				{
+
+					"type":1,
+					"height":50.0,
+					"title":"性别",
+                    "selectTitles":[
+                            "男",
+                            "女"
+                         ],
+					"selected":1,
+					"keboardType":0,
+					"ccKey":"sex"
+				},
+				{
+
+					"type":0,
+					"height":50.0,
+					"title":"身份证号",
+					"placeholder":"请输入身份证号码",
+                    "content":"",
+					"keboardType":4,
+					"ccKey":"code"
+				},
+				{
+
+					"type":0,
+					"height":50.0,
+					"title":"手机",
+					"placeholder":"请输入手机号码",
+                    "content":"",
+					"keboardType":4,
+					"ccKey":"phone"
+				},
+				{
+
+					"type":0,
+					"height":50.0,
+					"title":"现住址",
+					"placeholder":"请输入详细地址",
+                    "content":"",
+					"keboardType":0,
+					"ccKey":"address"
+				},
+				{
+
+					"type":1,
+					"height":50.0,
+					"title":"是否结婚",
+                     "selectTitles":[
+                                     "是",
+                                     "否"
+                                     ],
+					"selected":1,
+					"keboardType":0,
+					"ccKey":"marry"
+				},
+				{
+
+					"type":1,
+					"height":50.0,
+					"title":"是否有公积金",
+                     "selectTitles":[
+                                     "是",
+                                     "否"
+                                     ],
+					"selected":1,
+					"keboardType":0,
+					"ccKey":"gongjijin"
+				},
+				{
+
+					"type":1,
+					"height":50.0,
+					"title":"是否有商业险",
+                     "selectTitles":[
+                                     "是",
+                                     "否"
+                                     ],
+					"selected":1,
+					"keboardType":0,
+					"ccKey":"shangyexian"
+				},
+				{
+
+					"type":1,
+					"height":50.0,
+					"title":"是否有房贷",
+                     "selectTitles":[
+                                     "是",
+                                     "否"
+                                     ],
+					"selected":1,
+					"keboardType":0,
+					"ccKey":"fangdai"
+				},
+				{
+
+					"type":1,
+					"height":50.0,
+					"title":"是否有车贷",
+                     "selectTitles":[
+                                     "是",
+                                     "否"
+                                     ],
+					"selected":1,
+					"keboardType":0,
+					"ccKey":"chedai"
+				}
+			]
+		},
+		{
+			"groupFooterTitle":"",
+			"groupFooterHeight":0,
+
+			"groupHeaderHeight":30,
+			"groupHeaderTitle":"亲朋好友联系人（至少填一个）",
+
+			"groupRows":[
+				{
+					"type":0,
+					"height":50.0,
+					"title":"手机号",
+					"placeholder":"请输入手机号码",
+                    "content":"",
+					"keboardType":4,
+					"ccKey":"connect"
+				},
+				{
+
+					"type":2,
+					"height":50.0,
+					"title":"关系",
+					"arrow":1,
+                     "content":"",
+                    "arrowTitle":"",
+					"keboardType":0,
+					"ccKey":"connect1"
+				}
+			]
+		},
+		{
+			"groupFooterTitle":"",
+			"groupFooterHeight":0,
+
+			"groupHeaderHeight":5,
+			"groupHeaderTitle":"",
+
+			"groupRows":[
+				{
+					"type":0,
+					"height":50.0,
+					"title":"手机号",
+					"placeholder":"请输入手机号码",
+                    "content":"",
+					"keboardType":4,
+					"ccKey":"connect"
+				},
+				{
+
+					"type":2,
+					"height":50.0,
+					"title":"关系",
+					"arrow":1,
+                     "content":"",
+                    "arrowTitle":"",
+					"keboardType":4,
+					"ccKey":"connect1"
+				}
+			]
+		},
+		{
+			"groupFooterTitle":"",
+			"groupFooterHeight":0,
+
+			"groupHeaderHeight":5,
+			"groupHeaderTitle":"",
+
+			"groupRows":[
+				{
+					"type":0,
+					"height":50.0,
+					"title":"手机号",
+					"placeholder":"请输入手机号码",
+                    "content":"",
+					"keboardType":4,
+					"ccKey":"connect"
+				},
+				{
+
+					"type":2,
+					"height":50.0,
+					"title":"关系",
+					"arrow":1,
+                     "content":"",
+                    "arrowTitle":"",
+					"keboardType":0,
+					"ccKey":"connect1"
+				}
+			]
+		}
+
+	],
+
+	"tableInfor":{
+		"title":"小额借贷",
+		"tableFooter":"",
+		"tableHeader":""
+	}
+}
